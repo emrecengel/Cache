@@ -1,0 +1,12 @@
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\CacheProvider.csproj.AssemblyReference.cache
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\CacheProvider.GeneratedMSBuildEditorConfig.editorconfig
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\CacheProvider.AssemblyInfoInputs.cache
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\CacheProvider.AssemblyInfo.cs
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\CacheProvider.csproj.CoreCompileInputs.cache
+T:\source\CacheProvider\CacheProvider\bin\Debug\net8.0\CacheProvider.deps.json
+T:\source\CacheProvider\CacheProvider\bin\Debug\net8.0\CacheProvider.dll
+T:\source\CacheProvider\CacheProvider\bin\Debug\net8.0\CacheProvider.pdb
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\CacheProvider.dll
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\refint\CacheProvider.dll
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\CacheProvider.pdb
+T:\source\CacheProvider\CacheProvider\obj\Debug\net8.0\ref\CacheProvider.dll
